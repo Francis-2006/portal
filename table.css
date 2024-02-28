@@ -1,0 +1,49 @@
+.text{
+    margin-left: 110px;
+    margin-top: 250px;
+    font-size: 30px;
+    font-family: Arial;
+    text-align: left;
+}
+.text2{
+    font-size: 19px;
+    margin-top: -27px;
+
+}
+
+.table2{
+    width: 450px;
+    height: 320px;
+    text-align: center;
+    border-style: groove;
+    border-collapse: collapse;  
+}
+    .table{
+        margin-left: 400px;
+        margin-top: -295px;
+        position: relative;
+
+
+    }
+    .tabletext{
+        font-size: 40px;
+        font-family: arial;
+    margin-bottom: 20px;
+    margin-left: 35px;
+
+    }
+    .fw{
+        margin-top: 50px;
+        font-size: 24px;
+        font-family: arial;
+        color: white;
+        background-color: rgba(29, 162, 214, 0.911);
+        
+        
+    }
+    .climax{
+        margin-left: 280px;
+    }
+    button{
+        background: aqua;
+    }
